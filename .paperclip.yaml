@@ -1,0 +1,16 @@
+# Paperclip Vendor Extension
+# Optional sidecar file for vendor-specific settings not covered by the spec.
+
+vulcanneural:
+  # GitHub org where company repos live
+  githubOrg: VulcanNeuralDev
+  # Default agent runtime preferences
+  defaultAdapters:
+    dev: hermes_local
+    ops: hermes_local
+    architect: claude_local
+  # Notification preferences
+  notifications:
+    budgetThreshold: 80
+    onAgentPause: true
+    onTaskComplete: true

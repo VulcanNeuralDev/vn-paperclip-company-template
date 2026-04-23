@@ -1,0 +1,21 @@
+# Secrets and environment
+.env
+.env.local
+.env.*.local
+.paperclip-secrets.yaml
+
+# Node modules (if any scripts)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Paperclip runtime
+paperclip-data/
