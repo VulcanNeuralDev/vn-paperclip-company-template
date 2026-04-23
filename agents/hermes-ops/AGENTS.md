@@ -2,6 +2,7 @@
 name: Hermes Ops
 title: Site Reliability Engineer
 reportsTo: null
+adapter: hermes_local
 skills:
   - deployment
 ---

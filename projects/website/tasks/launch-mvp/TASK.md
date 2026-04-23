@@ -2,11 +2,6 @@
 name: Launch Website MVP
 assignee: hermes-dev
 project: website
-schedule:
-  timezone: America/Chicago
-  startsAt: 2026-04-23T09:00:00-05:00
-  recurrence:
-    frequency: once
 ---
 
 # Launch Website MVP

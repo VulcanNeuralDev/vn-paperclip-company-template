@@ -2,6 +2,7 @@
 name: Hermes Dev
 title: Senior Software Engineer
 reportsTo: null
+adapter: hermes_local
 skills:
   - git-workflow
   - deployment

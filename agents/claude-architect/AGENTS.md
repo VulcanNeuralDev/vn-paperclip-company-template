@@ -2,6 +2,7 @@
 name: Claude Architect
 title: Principal Architect
 reportsTo: null
+adapter: claude_local
 skills:
   - git-workflow
 ---
